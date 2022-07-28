@@ -1,5 +1,9 @@
 # SFL_TechInterview
-Reproducible Code for AWS Lambda Function 
+## By Keith L. Baskerville Jr. 
+Hello, Thank you for the opporunity to Interview with SFL Scientific! In this repo you will find a pdf with completed answers for Sections 1-3. 
+
+# Section 1: Consulting Soft Skills
+
 ## ETL Serverless PipeLine on AWS
 I will demonstrate how to load CSV data into AWS DynamoDB (NoSQL) using the Lambda Python function on AWS. To accomplish I will complete the following steps: 
 1. Create s3 bucket and upload CSV file to s3
